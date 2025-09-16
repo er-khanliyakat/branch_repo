@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Umer",
+        "age": 20,
+        "grade": "A",
+        "subjects": [
+            "maths",
+            "urdu",
+            "science"
+        ]
+    },
+    {
+        "name": "ABC",
+        "age": 23,
+        "grade": "C"
+    },
+    {
+        "name": "def",
+        "age": 25,
+        "grade": "A++"
+    }
+]

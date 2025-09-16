@@ -1,0 +1,7 @@
+{"students performance" : [
+{"roll number":1,"name":"abc","subjects":{"maths":87,"eng": 20,"urdu": 70},
+"grade":"grade c"},
+{"roll number":2,"name":"def","subjects":{"maths": 80,"eng": 50,"urdu": 77},
+"grade":"grade b"},
+
+{"roll number": 3,"name":"ghi","subjects":{"maths":50,"eng": 60,"urdu": 90},"grade":"grade a"}]}
