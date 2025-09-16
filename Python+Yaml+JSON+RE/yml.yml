@@ -1,0 +1,17 @@
+ommon: &vehecles_specs
+  wheels: 4
+  fuel: petrol
+vehcile:
+  car: 
+    name: alto 
+    spec: *vehecles_specs
+  bike: 
+    name: cbr
+    spec: 
+      wheels: 2
+      fuel: petrol
+  Truck: 
+    name: Tata
+    <<: *vehecles_specs
+    fuel: Diesel
+

@@ -1,0 +1,11 @@
+defaults: &default
+  version: 1.0
+  env: development
+sevices:
+  app:
+    <<: *default
+    env: production
+    port: 8080
+  db:
+    <<: *default
+    port: 5432

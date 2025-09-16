@@ -1,0 +1,15 @@
+# Basic key: value pair 
+name: "Liyakat"
+age: 25
+hobbies: ["a","b","c"] #one method to write lists in yaml is this (INLINE LIST)
+fav_colors:
+  - "blue"
+  - "green"
+  - "yellow"  #this is another method to write YAML lists  (BLOCK LIST)
+credential:
+  username: Liyakatahmad
+  password: 1234
+testing_multiline string : |  #Pipe operator
+  "this is multiline string.
+  Hello this is a simple YAML file.
+  Hope you are enjoying the Yaml concept"
